@@ -38,6 +38,6 @@
   "packs": [],
   "url": "http://github.com/gerads/party-overview",
   "bugs": "http://github.com/gerads/party-overview/issues",
-  "manifest": "http://github.com/gerads/party-overview/releases/latest/download/module.json",
-  "download": "http://github.com/gerads/party-overview/releases/latest/download/module.zip"
+  "manifest": "https://raw.githubusercontent.com/gerads/party-overview/custom/module.json",
+  "download": "http://github.com/gerads/party-overview/zipball/custom"
 }
