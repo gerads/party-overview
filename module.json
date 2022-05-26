@@ -1,6 +1,6 @@
 {
-  "name": "party-overview",
-  "title": "Party Overview",
+  "name": "party-overview-gerads",
+  "title": "Party Overview - Gerads",
   "description": "Provides an instant overview about vital stats of the players active in the current scene",
   "version": "2.6.0",
   "author": "Matheus Clemente (mclemente#5524), Sebastian Will (vttassets@gmail.com), Chris Wachal (Zamrod#9326)",
@@ -36,8 +36,8 @@
   "esmodules": ["./party-overview.js"],
   "styles": ["./style/party-overview.css"],
   "packs": [],
-  "url": "http://github.com/mclemente/party-overview",
-  "bugs": "http://github.com/mclemente/party-overview/issues",
-  "manifest": "http://github.com/mclemente/party-overview/releases/latest/download/module.json",
-  "download": "http://github.com/mclemente/party-overview/releases/latest/download/module.zip"
+  "url": "http://github.com/gerads/party-overview",
+  "bugs": "http://github.com/gerads/party-overview/issues",
+  "manifest": "http://github.com/gerads/party-overview/releases/latest/download/module.json",
+  "download": "http://github.com/gerads/party-overview/releases/latest/download/module.zip"
 }
